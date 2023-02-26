@@ -1,0 +1,122 @@
+*{
+        margin: 0px;
+        padding: 0px;        
+}
+
+body{ 
+        background-color: lightgray;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#container{
+        width: 800px;
+        background-color: white;
+        margin: 4px auto;
+        border: 1px solid black;
+        padding-bottom: 5px;
+        
+}
+
+header{
+       background: white;
+       height: 80px;
+       width: 100%;
+       margin: 0px;
+       text-align: center;
+       line-height: 100px;
+       font-size: large;
+       color: black;
+       border-bottom: 2px solid black;
+}
+
+#contacto{
+        background: white;
+        width: 390px;
+        border-bottom: 1px solid black;
+        border: 2px dashed ;
+        padding-left: 0.2%;
+}
+
+#datos{
+        float: center;
+        text-align: center;
+        font-size: 145%;
+}
+
+#iconosProgramacion{
+        margin: auto;
+}
+
+nav ul center{
+        background: azure;
+        height: center, 1000px;
+        width: center, 1000px;
+        text-align: center;
+        font-size: 88%;
+        border: 3px solid black;
+}
+
+.clearfix{
+        clear:both;
+}
+
+#content{
+        float: center;
+        text-align: center;
+        width: 1850;
+        height: 630px;
+        background: grey;
+        padding: 30px;
+}
+
+#programmer{
+        float: right;
+        width: 300px;
+        font-size: large;
+        background: lightyellow;
+        margin-top: -600px;
+        margin-right: 4px;
+        border: 5px dotted black;
+}
+
+#barra{
+        float: right;
+        text-transform: uppercase;
+        width: 330px;
+        font-size: large;
+        background: lightsteelblue;
+        min-height: 80px;
+        margin-top: -84px;
+        margin-right: 1px;
+        border: 2px dotted black;
+}
+
+footer{
+        background: black;
+        font-size: large;
+        color: white;
+        text-align: center;
+        height: 65px;
+        line-height: 50px;
+}
+
+.article center{
+        color: black;
+        margin-top: -5px;
+        margin-bottom: 12px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid black;
+}
+
+.article:first-child{
+        padding-top: 10px;
+        border-top: 1px solid white;
+}
+
+.article h2{
+        font-size: 25px;
+}
+
+
+
+
