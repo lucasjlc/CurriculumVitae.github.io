@@ -63,7 +63,7 @@ nav ul center{
 #content{
         float: center;
         text-align: center;
-        width: 1850;
+        width: 1860;
         height: 630px;
         background: grey;
         padding: 30px;
@@ -102,7 +102,7 @@ footer{
 
 .article center{
         color: black;
-        margin-top: -5px;
+        margin-top: -10px;
         margin-bottom: 12px;
         padding-bottom: 10px;
         border-bottom: 1px solid black;
